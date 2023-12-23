@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>B(8).jpg</filename>
+	<path>F:\ml\test1\SMOKEDATA\images\B(8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>405</ymin>
+			<xmax>393</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

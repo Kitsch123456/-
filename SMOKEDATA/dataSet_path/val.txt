@@ -1,0 +1,5 @@
+F:/ml/test1/SMOKEDATA/images/23.jpg
+F:/ml/test1/SMOKEDATA/images/30.jpg
+F:/ml/test1/SMOKEDATA/images/37.jpg
+F:/ml/test1/SMOKEDATA/images/44.jpg
+F:/ml/test1/SMOKEDATA/images/B(16).jpg
